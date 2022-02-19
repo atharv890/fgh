@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.red{
+    background-image:radial-gradient(lightpink,lightblue,lightyellow)
+}
+canvas{
+    border:blue dotted 5px;
+}
